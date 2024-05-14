@@ -5,7 +5,7 @@ const GAME_ROWS = 20;
 const CONTROL_BLOCKS = 4;
 const MIN_BLOCK_SIZE = 5;
 const MAX_BLOCK_SIZE = 100;
-
+PASSWORD = 1234
 let query = ``;
 
 for (let i = MIN_BLOCK_SIZE; i <= MAX_BLOCK_SIZE; i++) {
